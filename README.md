@@ -1,9 +1,5 @@
 <h1 align="center">Hospital Mortality Rate SQL Analysis</h1>
 
-<p align="center">
-  <img src="https://www.google.com/imgres?q=hospital%20photo%20cartoon&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1319979886%2Fvector%2Fhospital-building-with-ambulance-car-health-and-medical-isolated-on-white-background-vector.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DV--emLZZd1Th0tmWN6r6kz5ehTguXu2zh2cGMZtjUGs%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fhospital-cartoon&docid=YsB78cl6OnrrMM&tbnid=StZsDGiUq83kgM&vet=12ahUKEwjesdfchsSPAxWXwzgGHSrmJbkQM3oECBgQAA..i&w=612&h=612&hcb=2&ved=2ahUKEwjesdfchsSPAxWXwzgGHSrmJbkQM3oECBgQAA" />
-</p>
-
 [Dataset Used](https://www.kaggle.com/datasets/mitishaagarwal/patient/data)
 
 
