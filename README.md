@@ -3,15 +3,6 @@
 [Dataset Used](https://www.kaggle.com/datasets/mitishaagarwal/patient/data)
 
 
-
-**Tools Used:**
-
- • SQL - For analysing the data set and deriving insights by running queries
-
- • Tableau - For data vizualization and presentation
-
- • Microsoft Excel - For cleaning and understanding the data
-
 **Aim of the project :** To study the mortality rate in hospitals, how does it relate to factors such as age, ethnicity, comorbidities, gender, weight, and BMI and come up with correlations that can help health care professionals to be better equiped with information to reduce the in-hospital deaths.
 
 **Business Problem:** Health care professionals (HCPs) are trying to identify the reason why a patient succumbs to death while being admitted in a hospital. If they have a clear understanding of why they loose a patient, they will be able to reduce the mortality rate by implementing systematic interventions that treats the specific individual based on factors mentioned above. This will reduce the in-hospital mortality rate significantly.
